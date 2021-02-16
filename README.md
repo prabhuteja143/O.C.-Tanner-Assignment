@@ -4,17 +4,17 @@ This assignmet is built with Html, CSS, Javascript, Bootstrap 5, and QuillJS.
 
 # Project Screen Shot(s) in Desktop View:
 
-![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/1.Screenshot 2021-02-17.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/desk1.jpg)
 
-![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/2.Screenshot 2021-02-17 035042.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/desk2.jpg)
 
-![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/3.Screenshot 2021-02-17 035207.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/desk3.jpg)
 
-![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/4.Screenshot 2021-02-17 035435.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/desk4.jpg)
 
-![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/5.Screenshot 2021-02-17 035552.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/desk5.jpg)
 
-![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/6. Screenshot 2021-02-17 035655.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/desk6.jpg)
 
 # Project Screen Shot(s) in Mobile View:
 
