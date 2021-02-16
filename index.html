@@ -11,8 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="css/style.css">
-
+    
     <!-- Font Awesome 5 CDN link -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 
@@ -21,13 +20,22 @@
     <link rel="stylesheet" type="text/css" href="quill-emoji.css" />
     <link rel="stylesheet" type="text/css" href="quill.mention.min.css" />
 
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary modal-btn" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-    Click Me!
-  </button>
+  <div class="text-center modal-btn">
+    <img src="assets/OCTLogo.png" class="mb-4 img-fluid" alt="O.C. Tanner Logo" />
+    <h2>UI/UX Assignment</h2>
+    <p>Please click the below button for display the popup</p>
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+      Click Me!
+    </button>
+    <p class="mt-4">For more information about the implementation Please go through the <a href=""><a href="https://github.com/prabhuteja143/O.C.-Tanner-Assignment/blob/main/README.md" target="_blank">README.MD</a></p>
+    <p style="font-size: 0.8rem;"><span class="fw-bold">Note:</span> Logo copyrights subject to O.C. Tanner Company</p>
+</div>
+
   
   <!-- Modal -->
   <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -105,7 +113,7 @@
  
       var quill = new Quill('#editor', {
    
-        placeholder: 'Thank Someone Today...',
+        placeholder: 'Thank someone today...',
          theme : 'snow',
         modules: {
           mention: {

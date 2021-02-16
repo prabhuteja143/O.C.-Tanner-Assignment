@@ -1,7 +1,5 @@
 # O.C.-Tanner-Assignment
 
-# O.C.-Tanner-Assignment
-
 This assignmet is built with Html, CSS, Javascript, Bootstrap 5, and QuillJS.
 
 # Project Screen Shot(s) in Desktop View:
