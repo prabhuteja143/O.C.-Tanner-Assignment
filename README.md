@@ -4,55 +4,32 @@ This assignmet is built with Html, CSS, Javascript, Bootstrap 5, and QuillJS.
 
 # Project Screen Shot(s) in Desktop View:
 
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot1.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/1.Screenshot 2021-02-17.jpg)
 
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot2.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/2.Screenshot 2021-02-17 035042.jpg)
 
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot3.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/3.Screenshot 2021-02-17 035207.jpg)
 
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot4.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/4.Screenshot 2021-02-17 035435.jpg)
 
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/Screenshot5-noUserFound.jpg)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/5.Screenshot 2021-02-17 035552.jpg)
+
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/6. Screenshot 2021-02-17 035655.jpg)
 
 # Project Screen Shot(s) in Mobile View:
 
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(1).png)
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(2).png)
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(3).png)
-![alt-textd](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(4).png)
-![alt-text](https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise/blob/main/src/images/localhost_3000_(iPhone%206_7_8)(5).png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Mobile_1.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Mobile_2.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Mobile_3.png)
+![alt-textd](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Mobile_4.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Mobile_5.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Mobile_6.png)
 
-## Installation and Setup Instructions
+# Project Screen Shot(s) in Tablet View:
 
-First, Check the `node` and `npm` are installed globally on your machine or not. If its not installed first install `node` and `npm`. Then 
-Clone this repository
-
-```
-$ git remote add origin https://github.com/prabhuteja143/Deployd-Git-Users-Search-Exercise.git
-```
-
-Next, load all the dependencies  
-
-```
-$ cd react-github-api
-$ npm install
-``` 
-Finally, run the node server with
-
-```
-$ npm start
-```
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Tablet_1.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Tablet_2.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Tablet_3.png)
+![alt-textd](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Tablet_4.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Tablet_5.png)
+![alt-text](https://github.com/prabhuteja143/O.C.-Tanner-Assignment/screenshots/Tablet_6.png)
